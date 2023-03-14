@@ -10,7 +10,7 @@
 
 » Sass / Scss <br>
 » React JS <br>
-» Live<a target="_blank" rel="noreferrer" href='https://portfolio-renting.vercel.app/'>Link</a> to the project.
+» Live <a target="_blank" rel="noreferrer" href='https://portfolio-renting.vercel.app/'>Link</a> to the project.
 
 
 <h2>Screenshots of the Project 📸</h2>
