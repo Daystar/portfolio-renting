@@ -9,7 +9,9 @@
 <h3>Build with:</h3>
 
 » Sass / Scss <br>
-» React JS
+» React JS <br>
+» Live <a target="_blank" rel="noreferrer" href='https://portfolio-renting.vercel.app/'>Link</a> to the project.
+
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
