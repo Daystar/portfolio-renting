@@ -20,10 +20,10 @@ function Footer() {
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                er.sagarkoli@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; carrental@gmail.com
+                  &nbsp; er.sagarkoli@gmail.com
                 </a>
               </li>
             </ul>
