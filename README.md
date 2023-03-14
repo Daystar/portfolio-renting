@@ -10,6 +10,8 @@
 
 » Sass / Scss <br>
 » React JS
+» <a target="_blank" rel="noreferrer" href='https://portfolio-renting.vercel.app/'>Link</a>
+
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
