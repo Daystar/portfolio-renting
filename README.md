@@ -16,6 +16,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://github.com/Daystar/portfolio-renting/blob/main/localhost_3000_%20(1).png'/>
+<img src='https://github.com/Daystar/portfolio-renting/blob/main/screenshot.png'/>
 
 </div>
