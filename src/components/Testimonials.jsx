@@ -11,10 +11,7 @@ function Testimonials() {
               <h4>Reviewed by People</h4>
               <h2>Client's Testimonials</h2>
               <p>
-                Discover the positive impact we've made on the our clients by
-                reading through their testimonials. Our clients have experienced
-                our service and results, and they're eager to share their
-                positive experiences with you.
+                We invite you to browse through the testimonials of our valued clients and discover the positive impact we have had on their driving experiences. Our clients have experienced our premium car rental service and have enjoyed exceptional results, and they are eager to share their positive feedback with you.
               </p>
             </div>
 
